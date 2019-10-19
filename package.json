@@ -2,8 +2,10 @@
   "name": "videos-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lpzraf.github.io/react-youtube-search-app/",
   "dependencies": {
     "axios": "^0.18.1",
+    "gh-pages": "^2.1.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0"
@@ -12,6 +14,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
