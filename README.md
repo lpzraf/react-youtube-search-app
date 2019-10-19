@@ -1,5 +1,5 @@
 ### YouTube Video Search App
-YouTube video search app built with React JS and the YouTube API. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Small app built with React JS and the YouTube API. This fun project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 1. In the project directory after cloning the repo to your machine, please run: ### `npm start`
 
