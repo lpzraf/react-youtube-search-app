@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://lpzraf.github.io/react-youtube-search-app/",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
